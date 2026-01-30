@@ -11,3 +11,5 @@ here u can edit your code and even type for expale to get harshad numbers u will
 https://github.com/user-attachments/assets/a5732e20-1c2b-4cb7-8c84-39bd959f28f9
 
 (note:save changes will UPDATE YOUR VS STUDIO CODE)
+
+Discord server link:https://discord.gg/3HfV5cErYX
